@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="A gorilla with a Gentoo logo typing on a ThinkPad" width="320">
+</p>
+
 # Infinite Monkeys 🐒⌨️
 
 **English** | [Русский](README.ru.md)
@@ -85,7 +89,7 @@ A small window should appear. If you get `ModuleNotFoundError: No module named '
 #### Run
 
 ```sh
-git clone https://github.com/<your-username>/infinite-monkeys.git
+git clone https://github.com/echo-vs/infinite-monkeys.git
 cd infinite-monkeys
 python3 monkeys.py
 ```

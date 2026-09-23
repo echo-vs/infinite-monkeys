@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Горилла с логотипом Gentoo печатает на ThinkPad" width="320">
+</p>
+
 # Бесконечные обезьяны 🐒⌨️
 
 [English](README.md) | **Русский**
@@ -85,7 +89,7 @@ python3 -m tkinter
 #### Запуск
 
 ```sh
-git clone https://github.com/<твой-ник>/infinite-monkeys.git
+git clone https://github.com/echo-vs/infinite-monkeys.git
 cd infinite-monkeys
 python3 monkeys.py
 ```
